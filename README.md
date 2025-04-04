@@ -29,13 +29,14 @@ The application follows a client-server architecture:
 
 ### Project Structure
 
-Code
+```shell
 collaborative-whiteboard/
 ├── public/
 │   ├── index.html      # HTML structure and UI elements
 │   ├── styles.css      # Styling and responsive design
 │   └── app.js          # Client-side Canvas and WebSocket logic
 └── server.js           # WebSocket server implementation
+```
 
 ## How to Run the Project
 
