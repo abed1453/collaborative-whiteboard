@@ -1,7 +1,7 @@
 # Assignment for Chaos Theory
 
-**Name:** Abed Al Rahman
-**Dedicated to:** Chaos Theory Ltd    
+**Name:** Abed Al Rahman<br>
+**Dedicated to:** Chaos Theory Ltd<br>
 **CityU ID:** 57744270
 
 
